@@ -1,4 +1,4 @@
-From Trees to Transformers: Call Quality Prediction
+From Trees to Transformers: Call Quality Prediction- 
 This repository contains the implementation of a comparative study evaluating the performance of ensemble tree-based models and deep learning architectures for predicting customer-perceived voice call quality. The project introduces a Fused Model architecture that combines a Random Forest regressor with an FT-Transformer (Feature Tokenizer Transformer) trained on residuals to achieve superior predictive accuracy
 
 📌 Project Overview
